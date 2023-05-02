@@ -1,3 +1,4 @@
+
 ##Le Language Java
 
 ### Introduction
@@ -10,4 +11,4 @@ Les caractéristique du Langage Java:
 
 ### Documentation
 
-Lien vers la <span style="color: red">la documentation officielle</span> : [Documentation](https://dev.java/learn/)
+Lien vers /textcolor{red}{la documentation officielle} : [Documentation](https://dev.java/learn/)
