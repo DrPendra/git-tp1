@@ -10,4 +10,4 @@ Les caractéristique du Langage Java:
 
 ### Documentation
 
-Lien vers <span style='color:red'> la documentation officielle </span> : [Documentation](https://dev.java/learn/)
+Lien vers \textcolor {red} {la doctumentation officiel} : [Documentation](https://dev.java/learn/)
