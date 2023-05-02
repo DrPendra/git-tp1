@@ -10,4 +10,4 @@ Les caractéristique du Langage Java:
 
 ### Documentation
 
-Lien vers \textcolor {red} {la doctumentation officiel} : [Documentation](https://dev.java/learn/)
+Lien vers la doctumentation officielle : [Documentation](https://dev.java/learn/)
