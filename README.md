@@ -1,6 +1,6 @@
-#Le Language Java
+##Le Language Java
 
-## Introduction
+### Introduction
 
 Les caractéristique du Langage Java:
 
@@ -8,6 +8,6 @@ Les caractéristique du Langage Java:
  + il est *portable*
  + il est multithreadé
 
-## Documentation
+### Documentation
 
-Lien vers la <span style="color: red;">la documentation officielle</span> : [Documentation](https://dev.java/learn/)
+Lien vers la <span style="color: red">la documentation officielle</span> : [Documentation](https://dev.java/learn/)
